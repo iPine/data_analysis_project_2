@@ -9,14 +9,14 @@
 ### 数据集
 三座城市 2017 年上半年的数据
 包含相同的核心六 (6)列：
-    * 起始时间 Start Time（例如 2017-01-01 00:07:57）
-    * 结束时间 End Time（例如 2017-01-01 00:20:53）
-    * 骑行时长 Trip Duration（例如 776 秒）
-    * 起始车站 Start Station（例如百老汇街和巴里大道）
-    * 结束车站 End Station（例如塞奇威克街和北大道）
-    * 用户类型 User Type（订阅者 Subscriber/Registered 或客户Customer/Casual）
+- 起始时间 Start Time（例如 2017-01-01 00:07:57）
+- 结束时间 End Time（例如 2017-01-01 00:20:53）
+- 骑行时长 Trip Duration（例如 776 秒）
+- 起始车站 Start Station（例如百老汇街和巴里大道）
+- 结束车站 End Station（例如塞奇威克街和北大道）
+- 用户类型 User Type（订阅者 Subscriber/Registered 或客户Customer/Casual）
 
-芝加哥和纽约市文件还包含以下两列（数据格式可以查看下面的图片）：
-    * 性别 Gender
-    * 出生年份 Birth Year
+芝加哥和纽约市文件还包含以下两列：
+- 性别 Gender
+- 出生年份 Birth Year
 
